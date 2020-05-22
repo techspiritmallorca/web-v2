@@ -1,7 +1,6 @@
 
 export default {
   mode: 'universal',
-  router: { base: '/web-v2/' },
   /*
   ** Headers of the page
   */
