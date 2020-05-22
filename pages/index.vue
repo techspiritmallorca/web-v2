@@ -48,7 +48,8 @@
               <div class="col-lg-12 two-columns">
                 <p>Somos un grupo de personas a las que un día se les ocurrió formar una comunidad alrededor de un tema de tecnología que nos apasiona.</p>
                 <p>La tecnología la entendemos en su sentido más amplio, no solo desde el punto de vista de IT o el desarrollo de software, sino desde la aplicación de la ciencia a la resolución de problemas concretos.</p>
-                <p>Hasta ahora hemos operado bajo diferentes nombres y comunidades alrededor de áreas de conocimiento específicas. En 2020 vemos la oportunidad de colaborar y establecer sinergias que nos hagan aún más efectivos en nuestro empeño y que logren hacer aún más atractivo el sector tecnológico para todo tipo de público.</p>
+                <p>Hasta ahora hemos operado bajo diferentes nombres y comunidades alrededor de áreas de conocimiento específicas.</p>
+                <p>En 2020 vemos la oportunidad de colaborar y establecer sinergias que nos hagan aún más efectivos en nuestro empeño y que logren hacer aún más atractivo el sector tecnológico para todo tipo de público.</p>
                 <p>No es fácil conseguir financiación, si empujar una comunidad solo. Por eso buscamos una comunidad de comunidades que pueda apoyarnos y crecer más allá de nosotros mismos, con nuevos canales de comunicación, con nuevos formatos de interacción entre los miembros.</p>
               </div>
             </div>
@@ -292,19 +293,18 @@
             <div class="row justify-content-center">
               <div class="col-lg-6">
                 <div class="mb-5 text-center">
-                  <div class="text-xs text-uppercase-expanded text-primary mb-2">Manifesto</div>
+                  <div class="text-xs text-uppercase-expanded text-primary mb-2">Manifiesto</div>
                 </div>
               </div>
             </div>
             <div class="row justify-content-center">
               <div class="col-lg-12">
                 <ul>
-                  <li>Creemos en que la diversidad de conocimiento es la mejor vía de evolución en tecnología</li>
-                  <li>Creemos en que somos más fuertes colaborando que dividiendo, que el diálogo transversal aporta más que el discurso unidireccional</li>
-                  <li>Creemos que cualquier persona con curiosidad y ganas de aprender puede ser parte de un evento de tecnología o colaborar en la creación de soluciones, sin etiquetar a “los que saben” y “los que no saben”</li>
-
-                  <li>Creemos que tod@s podemos aprender y tod@s podemos enseñar algo</li>
-                  <li>Queremos mantener a la comunidad técnica de la isla activa, promover el intercambio de puntos de vista y difundir el conocimiento lo más posible para beneficiar al conjunto de la sociedad, tanto local como internacional, a la que podemos llegar gracias a la tecnologíaƒ</li>
+                  <li>Creemos en que la diversidad de conocimiento es la mejor vía de evolución en tecnología.</li>
+                  <li>Creemos en que somos más fuertes colaborando que dividiendo, que el diálogo transversal aporta más que el discurso unidireccional.</li>
+                  <li>Creemos que cualquier persona con curiosidad y ganas de aprender puede ser parte de un evento de tecnología o colaborar en la creación de soluciones, sin etiquetar a “los que saben” y “los que no saben”.</li>
+                  <li>Creemos que tod@s podemos aprender y tod@s podemos enseñar algo.</li>
+                  <li>Queremos mantener a la comunidad técnica de la isla activa, promover el intercambio de puntos de vista y difundir el conocimiento lo más posible para beneficiar al conjunto de la sociedad, tanto local como internacional, a la que podemos llegar gracias a la tecnología.</li>
                 </ul>
               </div>
             </div>
