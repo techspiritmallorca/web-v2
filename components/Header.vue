@@ -5,7 +5,8 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <a
           class="btn-default btn rounded-pill px-4 ml-auto"
-          href="https://shop.startbootstrap.com/sb-ui-kit-pro"
+          target="_blank"
+          href="mailto:techspiritmallorca@gmail.com"
         >
           Contactar
           <i class="fas fa-arrow-right ml-1"></i>

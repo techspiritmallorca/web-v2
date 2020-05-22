@@ -13,7 +13,7 @@ export default {
       { hid: 'description', name: 'description', content: 'Somos un grupo de personas a las que un día se les ocurrió formar una comunidad alrededor de un tema de tecnología que nos apasiona.' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.png' }
     ]
   },
   /*
