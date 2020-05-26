@@ -350,7 +350,23 @@
           <div class="row align-items-center">
             <div class="col-md-6 small">Copyright &copy; Tech Spirit Mallorca</div>
             <div class="col-md-6 text-md-right small">
-              <a href="mailto:techspiritmallorca@gmail.com">techspiritmallorca@gmail.com</a>
+              <div class="ml-auto">
+                <a
+                  class="btn-default btn rounded-pill px-2 social-icon"
+                  target="_blank"
+                  href="https://www.youtube.com/channel/UCZKdEQkM595kE23GqSxKbiA"
+                >
+                  <img :src="require(`~/assets/youtube.png`)" alt="YouTube TechSpirit" />
+                </a>
+                <a
+                  class="btn-default btn rounded-pill px-2 social-icon"
+                  target="_blank"
+                  href="https://twitter.com/techspiritmall1"
+                >
+                  <img :src="require(`~/assets/twitter.png`)" alt="Twitter TechSpirit" />
+                </a>
+                <a href="mailto:techspiritmallorca@gmail.com">techspiritmallorca@gmail.com</a>
+              </div>
             </div>
           </div>
         </div>
