@@ -16,7 +16,7 @@
                     class="page-header-text mb-5"
                   >Agrupamos e impulsamos las comunidades tecnológicas mallorquinas</p>
                   <a
-                    href="mailto:techspiritmallorca@gmail.com"
+                    href="https://forms.gle/9gJt97ibJxm4oZkt5"
                     target="_blank"
                     class="btn btn-primary btn-marketing rounded-pill"
                   >Contactar</a>
@@ -331,7 +331,7 @@
                 <a
                   class="btn btn-primary btn-marketing rounded-pill"
                   target="_blank"
-                  href="mailto:techspiritmallorca@gmail.com"
+                  href="https://forms.gle/9gJt97ibJxm4oZkt5"
                 >Contactar</a>
                 <a
                   class="btn btn-light btn-marketing rounded-pill"
