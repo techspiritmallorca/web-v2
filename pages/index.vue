@@ -274,6 +274,20 @@
                   </div>
                 </a>
               </div>
+              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
+                <a class="card lift" href="https://www.meetup.com/es-ES/makespace-mallorca/" target="_blank">
+                  <div class="img-wrapper">
+                    <img
+                      class="card-img-top"
+                      :src="require(`~/assets/communities/makespace.jpeg`)"
+                      alt="Makespace Mallorca"
+                    />
+                  </div>
+                  <div class="card-body text-center py-3">
+                    <h6 class="card-title mb-0">Makespace Mallorca</h6>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
           <div class="svg-border-angled text-light">
