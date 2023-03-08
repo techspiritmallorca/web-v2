@@ -97,44 +97,6 @@
               <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
                 <a
                   class="card lift"
-                  href="https://www.meetup.com/es-ES/Women-Techmakers-Mallorca/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/wtm.jpeg`)"
-                      alt="Women Tech Makers / GDG Mallorca"
-                    />
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Women Tech Makers / GDG Mallorca</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/PyData-Mallorca/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/pydata.jpeg`)"
-                      alt="PyData Mallorca"
-                    />
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">PyData Mallorca</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
                   href="https://www.meetup.com/es-ES/Agile-Illes-Balears-Meetup/"
                   target="_blank"
                 >
@@ -147,7 +109,7 @@
                   </div>
 
                   <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Agile & Learn Illes Balears</h6>
+                    <h6 class="card-title mb-0">Agile & Lean Illes Balears</h6>
                   </div>
                 </a>
               </div>
@@ -211,24 +173,6 @@
                 </a>
               </div>
               <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/Mallorca-Python-Meetup/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/mallorcapython.jpeg`)"
-                      alt="Mallorca Python Meetup"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Mallorca Python Meetup</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
                 <a class="card lift" href="https://www.meetup.com/es/Netsaimada/" target="_blank">
                   <div class="img-wrapper">
                     <img
@@ -239,24 +183,6 @@
                   </div>
                   <div class="card-body text-center py-3">
                     <h6 class="card-title mb-0">Netsaimada</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es/mallorca-coding-starters/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/mallorcacoding.png`)"
-                      alt="Mallorca Coding Starters"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Mallorca Coding Starters</h6>
                   </div>
                 </a>
               </div>
