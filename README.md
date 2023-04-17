@@ -20,3 +20,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Deployment
+
+Generate static files with the `npm run generate` command and it will generate a file named dist, add these files in a gh-pages branch and the deployment will be done automatically. Wait a few minutes and reload the page to see the changes.
+
+For detailed explanation check out on [github pages](https://pages.github.com/).
