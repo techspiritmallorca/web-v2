@@ -97,44 +97,6 @@
               <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
                 <a
                   class="card lift"
-                  href="https://www.meetup.com/es-ES/Women-Techmakers-Mallorca/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/wtm.jpeg`)"
-                      alt="Women Tech Makers / GDG Mallorca"
-                    />
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Women Tech Makers / GDG Mallorca</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/PyData-Mallorca/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/pydata.jpeg`)"
-                      alt="PyData Mallorca"
-                    />
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">PyData Mallorca</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
                   href="https://www.meetup.com/es-ES/Agile-Illes-Balears-Meetup/"
                   target="_blank"
                 >
@@ -142,12 +104,12 @@
                     <img
                       class="card-img-top"
                       :src="require(`~/assets/communities/agileandlearn.jpeg`)"
-                      alt="Agile & Learn Illes Balears"
+                      alt="Agile & Lean "
                     />
                   </div>
 
                   <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Agile & Learn Illes Balears</h6>
+                    <h6 class="card-title mb-0">Agile & Lean</h6>
                   </div>
                 </a>
               </div>
@@ -206,25 +168,7 @@
                   </div>
 
                   <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Big Data & Machine Learning</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/Mallorca-Python-Meetup/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/mallorcapython.jpeg`)"
-                      alt="Mallorca Python Meetup"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Mallorca Python Meetup</h6>
+                    <h6 class="card-title mb-0">Big Data, ML & AI</h6>
                   </div>
                 </a>
               </div>
@@ -239,24 +183,6 @@
                   </div>
                   <div class="card-body text-center py-3">
                     <h6 class="card-title mb-0">Netsaimada</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es/mallorca-coding-starters/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/mallorcacoding.png`)"
-                      alt="Mallorca Coding Starters"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Mallorca Coding Starters</h6>
                   </div>
                 </a>
               </div>
@@ -285,6 +211,34 @@
                   </div>
                   <div class="card-body text-center py-3">
                     <h6 class="card-title mb-0">Makespace Mallorca</h6>
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
+                <a class="card lift" href="https://www.meetup.com/es-ES/balearic-kubernetes-group/" target="_blank">
+                  <div class="img-wrapper">
+                    <img
+                      class="card-img-top"
+                      :src="require(`~/assets/communities/kubernetes.png`)"
+                      alt="Balearic Kubernetes Group"
+                    />
+                  </div>
+                  <div class="card-body text-center py-3">
+                    <h6 class="card-title mb-0">Balearic Kubernetes Group</h6>
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
+                <a class="card lift" href="https://www.meetup.com/es-ES/grafana-and-friends-baleares/" target="_blank">
+                  <div class="img-wrapper">
+                    <img
+                      class="card-img-top"
+                      :src="require(`~/assets/communities/grafana&friends.jpeg`)"
+                      alt="Grafana & Friends Baleares"
+                    />
+                  </div>
+                  <div class="card-body text-center py-3">
+                    <h6 class="card-title mb-0">Grafana & Friends Baleares</h6>
                   </div>
                 </a>
               </div>
@@ -349,9 +303,9 @@
                 >Contactar</a>
                 <a
                   class="btn btn-light btn-marketing rounded-pill"
-                  href="https://trello.com/b/LNIwQQ6t/tech-spirit-mallorca"
+                  href="https://www.linkedin.com/company/techspiritmallorca/"
                   target="_blank"
-                >Ver Trello &#x2197;</a>
+                >Síguenos &#x2197;</a>
               </div>
             </div>
           </div>
