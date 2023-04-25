@@ -104,12 +104,12 @@
                     <img
                       class="card-img-top"
                       :src="require(`~/assets/communities/agileandlearn.jpeg`)"
-                      alt="Agile & Learn Illes Balears"
+                      alt="Agile & Lean "
                     />
                   </div>
 
                   <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Agile & Learn Illes Balears</h6>
+                    <h6 class="card-title mb-0">Agile & Lean</h6>
                   </div>
                 </a>
               </div>
@@ -303,9 +303,9 @@
                 >Contactar</a>
                 <a
                   class="btn btn-light btn-marketing rounded-pill"
-                  href="https://trello.com/b/LNIwQQ6t/tech-spirit-mallorca"
+                  href="https://www.linkedin.com/company/techspiritmallorca/"
                   target="_blank"
-                >Ver Trello &#x2197;</a>
+                >Síguenos &#x2197;</a>
               </div>
             </div>
           </div>
