@@ -299,13 +299,8 @@
                 <a
                   class="btn btn-primary btn-marketing rounded-pill"
                   target="_blank"
-                  href="https://forms.gle/9gJt97ibJxm4oZkt5"
-                >Contactar</a>
-                <a
-                  class="btn btn-light btn-marketing rounded-pill"
-                  href="https://www.linkedin.com/company/techspiritmallorca/"
-                  target="_blank"
-                >Síguenos &#x2197;</a>
+                  href="https://www.linkedin.com/company/techspiritmallorca/."
+                >Síguenos en LinkedIn para saber de los eventos que organizamos</a>
               </div>
             </div>
           </div>
