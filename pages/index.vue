@@ -224,7 +224,7 @@
                     />
                   </div>
                   <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Palma BlockChain Meetup</h6>
+                    <h6 class="card-title mb-0">Grafana & Friends Baleares</h6>
                   </div>
                 </a>
               </div>
@@ -295,7 +295,7 @@
                 <h2>¿Quieres saber más?</h2>
                 <p
                   class="lead text-gray-500 mb-5"
-                >Ponte en contacto con nosotros o explora nuestro trello para conocer planificación y propuestas</p>
+                >Mándanos un email o síguenos en Linkedin para enterarte de nuestros próximos eventos y ven a conocernos en persona.</p>
                 <a
                   class="btn btn-primary btn-marketing rounded-pill"
                   target="_blank"
