@@ -16,10 +16,10 @@
                     class="page-header-text mb-5"
                   >Agrupamos e impulsamos las comunidades tecnológicas mallorquinas</p>
                   <a
-                    href="https://forms.gle/9gJt97ibJxm4oZkt5"
+                    href="https://www.linkedin.com/company/techspiritmallorca/"
                     target="_blank"
                     class="btn btn-primary btn-marketing rounded-pill"
-                  >Contactar</a>
+                  >Síguenos</a>
                 </div>
               </div>
             </div>
@@ -154,7 +154,7 @@
               <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
                 <a
                   class="card lift"
-                  href="https://www.meetup.com/es-ES/bigdata-machine-learning-mallorca/"
+                  href="https://creantbits.com/"
                   target="_blank"
                 >
                   <div class="img-wrapper">
@@ -224,7 +224,21 @@
                     />
                   </div>
                   <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Grafana & Friends Baleares</h6>
+                    <h6 class="card-title mb-0">Palma BlockChain Meetup</h6>
+                  </div>
+                </a>
+              </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
+                <a class="card lift" href="https://www.meetup.com/palma-blockchain-travel-meetup-group/ " target="_blank">
+                  <div class="img-wrapper">
+                    <img
+                      class="card-img-top"
+                      :src="require(`~/assets/communities/palma_blockchain.jpg`)"
+                      alt="Palma BlockChain Meetup"
+                    />
+                  </div>
+                  <div class="card-body text-center py-3">
+                    <h6 class="card-title mb-0">Palma BlockChain Meetup</h6>
                   </div>
                 </a>
               </div>
