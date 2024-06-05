@@ -2,6 +2,9 @@
 
 > Techspirit Mallorca
 
+## Dependencies
+- Install Node 14 with [nvm](https://github.com/nvm-sh/nvm#install-script)
+
 ## Build Setup
 
 ```bash
