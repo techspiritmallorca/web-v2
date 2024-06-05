@@ -75,173 +75,19 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/MallorcaJS/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/mallorcajs.jpeg`)"
-                      alt="Mallorca JS"
-                    />
-                  </div>
 
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Mallorca JS</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/Agile-Illes-Balears-Meetup/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/agileandlearn.jpeg`)"
-                      alt="Agile & Lean "
-                    />
-                  </div>
+              <Communitie name="Mallorca JS" url="https://www.meetup.com/es-ES/MallorcaJS/" img="mallorcajs.jpeg"/>
+              <Communitie name="Agile & Lean" url="https://www.meetup.com/es-ES/Agile-Illes-Balears-Meetup/" img="agileandlearn.jpeg"/>
+              <Communitie name="Mallorca Software Crafters" url="https://www.meetup.com/es-ES/Mallorca-Software-Crafters/" img="mallorcasoftwarecrafters.jpeg"/>
+              <Communitie name="AWS User Group Palma" url="https://www.meetup.com/es-ES/awsusergrouppalma/" img="paws.jpeg"/>
+              <Communitie name="Big Data, ML & AI" url="https://creantbits.com/" img="logo-white.png" bg_black="ture" />
+              <Communitie name="GDG Cloud Palma" url="https://www.meetup.com/es/GDGPalma/" img="gdgcloudpalma.jpeg"/>
+              <Communitie name="Makespace Mallorca" url="https://www.meetup.com/es-ES/makespace-mallorca/" img="makespace.jpeg"/>
+              <Communitie name="Balearic Kubernetes Group" url="https://www.meetup.com/es-ES/balearic-kubernetes-group/" img="kubernetes.png"/>
+              <Communitie name="Grafana & Friends Baleares" url="https://www.meetup.com/es-ES/grafana-and-friends-baleares/" img="grafana&friends.jpeg"/>
+              <Communitie name="Palma BlockChain Meetup" url="https://www.meetup.com/palma-blockchain-travel-meetup-group/" img="palma_blockchain.jpg"/>
+              <Communitie name="Cloud Native Mallorca" url="https://www.meetup.com/cloud-native-mallorca/" img="cloud-native-mallorca.webp"/>
 
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Agile & Lean</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/Mallorca-Software-Crafters/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/mallorcasoftwarecrafters.jpeg`)"
-                      alt="Mallorca Software Crafters"
-                    />
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Mallorca Software Crafters</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://www.meetup.com/es-ES/awsusergrouppalma/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/paws.jpeg`)"
-                      alt="AWS User Group Palma"
-                    />
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">AWS User Group Palma</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a
-                  class="card lift"
-                  href="https://creantbits.com/"
-                  target="_blank"
-                >
-                  <div class="img-wrapper">
-                    <div class="bg-black">
-                      <img
-                        class="card-img-top"
-                        :src="require(`~/assets/logo-white.png`)"
-                        alt="Big Data & Machine Learning"
-                      />
-                    </div>
-                  </div>
-
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Big Data, ML & AI</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a class="card lift" href="https://www.meetup.com/es/GDGPalma/" target="_blank">
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/gdgcloudpalma.jpeg`)"
-                      alt="GDG Cloud Palma"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">GDG Cloud Palma</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a class="card lift" href="https://www.meetup.com/es-ES/makespace-mallorca/" target="_blank">
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/makespace.jpeg`)"
-                      alt="Makespace Mallorca"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Makespace Mallorca</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a class="card lift" href="https://www.meetup.com/es-ES/balearic-kubernetes-group/" target="_blank">
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/kubernetes.png`)"
-                      alt="Balearic Kubernetes Group"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Balearic Kubernetes Group</h6>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a class="card lift" href="https://www.meetup.com/es-ES/grafana-and-friends-baleares/" target="_blank">
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/grafana&friends.jpeg`)"
-                      alt="Grafana & Friends Baleares"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Grafana & Friends Baleares</h6>
-                  </div>
-                </a>
-              </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
-                <a class="card lift" href="https://www.meetup.com/palma-blockchain-travel-meetup-group/ " target="_blank">
-                  <div class="img-wrapper">
-                    <img
-                      class="card-img-top"
-                      :src="require(`~/assets/communities/palma_blockchain.jpg`)"
-                      alt="Palma BlockChain Meetup"
-                    />
-                  </div>
-                  <div class="card-body text-center py-3">
-                    <h6 class="card-title mb-0">Palma BlockChain Meetup</h6>
-                  </div>
-                </a>
-              </div>
             </div>
           </div>
           <div class="svg-border-angled text-light">
@@ -340,9 +186,11 @@
 
 <script>
 import Header from "~/components/Header";
+import Communitie from "~/components/Communitie"
 export default {
   components: {
-    Header
+    Header,
+    Communitie,
   }
 };
 </script>
