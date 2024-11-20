@@ -50,7 +50,7 @@
                 <p>La tecnología la entendemos en su sentido más amplio, no solo desde el punto de vista de IT o el desarrollo de software, sino desde la aplicación de la ciencia a la resolución de problemas concretos.</p>
                 <p>Hasta ahora hemos operado bajo diferentes nombres y comunidades alrededor de áreas de conocimiento específicas.</p>
                 <p>En 2020 vemos la oportunidad de colaborar y establecer sinergias que nos hagan aún más efectivos en nuestro empeño y que logren hacer aún más atractivo el sector tecnológico para todo tipo de público.</p>
-                <p>No es fácil conseguir financiación, si empujar una comunidad solo. Por eso buscamos una comunidad de comunidades que pueda apoyarnos y crecer más allá de nosotros mismos, con nuevos canales de comunicación, con nuevos formatos de interacción entre los miembros.</p>
+                <p>No es fácil conseguir financiación, ni empujar una comunidad solo. Por eso buscamos una comunidad de comunidades que pueda apoyarnos y crecer más allá de nosotros mismos, con nuevos canales de comunicación, con nuevos formatos de interacción entre los miembros.</p>
               </div>
             </div>
           </div>
@@ -77,13 +77,10 @@
             <div class="row">
 
               <Communitie name="Mallorca JS" url="https://www.meetup.com/es-ES/MallorcaJS/" img="mallorcajs.jpeg"/>
-              <Communitie name="Agile & Lean" url="https://www.meetup.com/es-ES/Agile-Illes-Balears-Meetup/" img="agileandlearn.jpeg"/>
               <Communitie name="Mallorca Software Crafters" url="https://www.meetup.com/es-ES/Mallorca-Software-Crafters/" img="mallorcasoftwarecrafters.jpeg"/>
               <Communitie name="AWS User Group Palma" url="https://www.meetup.com/es-ES/awsusergrouppalma/" img="paws.jpeg"/>
-              <Communitie name="Big Data, ML & AI" url="https://creantbits.com/" img="logo-white.png" bg_black="ture" />
-              <Communitie name="GDG Cloud Palma" url="https://www.meetup.com/es/GDGPalma/" img="gdgcloudpalma.jpeg"/>
+              <Communitie name="Big Data, ML & AI" url="https://www.meetup.com/es-ES/bigdata-ml-ai-mallorca/" img="logo-white.png" bg_black="ture" />
               <Communitie name="Makespace Mallorca" url="https://www.meetup.com/es-ES/makespace-mallorca/" img="makespace.jpeg"/>
-              <Communitie name="Balearic Kubernetes Group" url="https://www.meetup.com/es-ES/balearic-kubernetes-group/" img="kubernetes.png"/>
               <Communitie name="Grafana & Friends Baleares" url="https://www.meetup.com/es-ES/grafana-and-friends-baleares/" img="grafana&friends.jpeg"/>
               <Communitie name="Palma BlockChain Meetup" url="https://www.meetup.com/palma-blockchain-travel-meetup-group/" img="palma_blockchain.jpg"/>
               <Communitie name="Cloud Native Mallorca" url="https://www.meetup.com/cloud-native-mallorca/" img="cloud-native-mallorca.webp"/>
